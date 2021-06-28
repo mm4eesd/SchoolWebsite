@@ -1,0 +1,33 @@
+img{
+  height: 100%;
+    width:100%;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.pic123{
+    height: 200px;
+    width: 200px;
+}
+iframe{
+    height: 80%;
+    width:80%;
+}
+.whatsnew_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.whatsnew_head i {
+    float: right;
+}
+
+.whatsnew_text span {
+    color: #ff7700;
+}
